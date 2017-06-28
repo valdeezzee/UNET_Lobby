@@ -1,0 +1,74 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940M (ID=0x1347)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   21.20.16.4542
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jonathan Valderrama\Documents\GitHub\UNET\FragmasNetLobby_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jonathan Valderrama\Documents\GitHub\UNET\FragmasNetLobby_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jonathan Valderrama\Documents\GitHub\UNET\FragmasNetLobby_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Jonathan Valderrama\Documents\GitHub\UNET\FragmasNetLobby_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Jonathan Valderrama\Documents\GitHub\UNET\FragmasNetLobby_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jonathan Valderrama\Documents\GitHub\UNET\FragmasNetLobby_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jonathan Valderrama\Documents\GitHub\UNET\FragmasNetLobby_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Jonathan Valderrama\Documents\GitHub\UNET\FragmasNetLobby_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Jonathan Valderrama\Documents\GitHub\UNET\FragmasNetLobby_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Jonathan Valderrama\Documents\GitHub\UNET\FragmasNetLobby_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Jonathan Valderrama\Documents\GitHub\UNET\FragmasNetLobby_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Jonathan Valderrama\Documents\GitHub\UNET\FragmasNetLobby_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Jonathan Valderrama\Documents\GitHub\UNET\FragmasNetLobby_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Jonathan Valderrama\Documents\GitHub\UNET\FragmasNetLobby_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.035 seconds
+Platform assembly: C:\Users\Jonathan Valderrama\Documents\GitHub\UNET\FragmasNetLobby_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Jonathan Valderrama\Documents\GitHub\UNET\FragmasNetLobby_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.622912 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1aec -> priority: 1 
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 447)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 447)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.265382 ms
+NotNull
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1177.
+Total: 1.291456 ms (FindLiveObjects: 0.057678 ms CreateObjectMapping: 0.042666 ms MarkObjects: 1.179653 ms  DeleteObjects: 0.010666 ms)
+
+NotNull
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+YOU LOSTPlayer2WON
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.938666 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 986.
+Total: 1.151999 ms (FindLiveObjects: 0.075061 ms CreateObjectMapping: 0.047802 ms MarkObjects: 1.002271 ms  DeleteObjects: 0.025283 ms)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:52481}
+ServerDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ClientRpc call on un-spawned object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

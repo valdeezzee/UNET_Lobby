@@ -1,0 +1,145 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     8144 MB
+    Driver:   21.21.13.6909
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jvalderr\Documents\Unity Projects\UNET\No_VRTesting_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jvalderr\Documents\Unity Projects\UNET\No_VRTesting_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jvalderr\Documents\Unity Projects\UNET\No_VRTesting_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\jvalderr\Documents\Unity Projects\UNET\No_VRTesting_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\jvalderr\Documents\Unity Projects\UNET\No_VRTesting_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jvalderr\Documents\Unity Projects\UNET\No_VRTesting_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jvalderr\Documents\Unity Projects\UNET\No_VRTesting_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\jvalderr\Documents\Unity Projects\UNET\No_VRTesting_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\jvalderr\Documents\Unity Projects\UNET\No_VRTesting_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\jvalderr\Documents\Unity Projects\UNET\No_VRTesting_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\jvalderr\Documents\Unity Projects\UNET\No_VRTesting_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\jvalderr\Documents\Unity Projects\UNET\No_VRTesting_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\jvalderr\Documents\Unity Projects\UNET\No_VRTesting_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\jvalderr\Documents\Unity Projects\UNET\No_VRTesting_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\jvalderr\Documents\Unity Projects\UNET\No_VRTesting_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading C:\Users\jvalderr\Documents\Unity Projects\UNET\No_VRTesting_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+- Completed reload, in  0.029 seconds
+Platform assembly: C:\Users\jvalderr\Documents\Unity Projects\UNET\No_VRTesting_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\jvalderr\Documents\Unity Projects\UNET\No_VRTesting_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 2560x1440 59Hz; virtual: 5120x1440 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.807988 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 2e4c -> priority: 1 
+  Thread -> id: 3294 -> priority: 1 
+  Thread -> id: 2c6c -> priority: 1 
+The prefab 'VR_Player' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fallback handler could not load library C:/Users/jvalderr/Documents/Unity Projects/UNET/No_VRTesting_Data/Mono/openvr_api
+Fallback handler could not load library C:/Users/jvalderr/Documents/Unity Projects/UNET/No_VRTesting_Data/Mono/.\openvr_api
+Fallback handler could not load library C:/Users/jvalderr/Documents/Unity Projects/UNET/No_VRTesting_Data/Mono/openvr_api
+Fallback handler could not load library C:/Users/jvalderr/Documents/Unity Projects/UNET/No_VRTesting_Data/Mono/libopenvr_api
+Fallback handler could not load library C:/Users/jvalderr/Documents/Unity Projects/UNET/No_VRTesting_Data/Mono/.\libopenvr_api
+Fallback handler could not load library C:/Users/jvalderr/Documents/Unity Projects/UNET/No_VRTesting_Data/Mono/libopenvr_api
+Fallback handler could not load library C:/Users/jvalderr/Documents/Unity Projects/UNET/No_VRTesting_Data/Mono/openvr_api
+Fallback handler could not load library C:/Users/jvalderr/Documents/Unity Projects/UNET/No_VRTesting_Data/Mono/.\openvr_api
+Fallback handler could not load library C:/Users/jvalderr/Documents/Unity Projects/UNET/No_VRTesting_Data/Mono/openvr_api
+Fallback handler could not load library C:/Users/jvalderr/Documents/Unity Projects/UNET/No_VRTesting_Data/Mono/libopenvr_api
+Fallback handler could not load library C:/Users/jvalderr/Documents/Unity Projects/UNET/No_VRTesting_Data/Mono/.\libopenvr_api
+Fallback handler could not load library C:/Users/jvalderr/Documents/Unity Projects/UNET/No_VRTesting_Data/Mono/libopenvr_api
+Fallback handler could not load library C:/Users/jvalderr/Documents/Unity Projects/UNET/No_VRTesting_Data/Mono/openvr_api
+Fallback handler could not load library C:/Users/jvalderr/Documents/Unity Projects/UNET/No_VRTesting_Data/Mono/.\openvr_api
+Fallback handler could not load library C:/Users/jvalderr/Documents/Unity Projects/UNET/No_VRTesting_Data/Mono/openvr_api
+Fallback handler could not load library C:/Users/jvalderr/Documents/Unity Projects/UNET/No_VRTesting_Data/Mono/libopenvr_api
+Fallback handler could not load library C:/Users/jvalderr/Documents/Unity Projects/UNET/No_VRTesting_Data/Mono/.\libopenvr_api
+Fallback handler could not load library C:/Users/jvalderr/Documents/Unity Projects/UNET/No_VRTesting_Data/Mono/libopenvr_api
+DllNotFoundException: openvr_api
+  at (wrapper managed-to-native) Valve.VR.OpenVRInterop:GetInitToken ()
+  at Valve.VR.OpenVR.GetInitToken () [0x00000] in <filename unknown>:0 
+  at Valve.VR.OpenVR+COpenVRContext.CheckClear () [0x00000] in <filename unknown>:0 
+  at Valve.VR.OpenVR+COpenVRContext.VRSystem () [0x00000] in <filename unknown>:0 
+  at Valve.VR.OpenVR.get_System () [0x00000] in <filename unknown>:0 
+  at SteamVR_ControllerManager.Refresh () [0x00000] in <filename unknown>:0 
+  at SteamVR_ControllerManager.OnEnable () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+UnityEngine.Networking.ClientScene:OnObjectSpawn(NetworkMessage)
+UnityEngine.Networking.NetworkConnection:HandleReader(NetworkReader, Int32, Int32)
+UnityEngine.Networking.NetworkConnection:HandleBytes(Byte[], Int32, Int32)
+UnityEngine.Networking.NetworkConnection:TransportRecieve(Byte[], Int32, Int32)
+UnityEngine.Networking.NetworkClient:Update()
+UnityEngine.Networking.NetworkClient:UpdateClients()
+UnityEngine.Networking.NetworkIdentity:UNetStaticUpdate()
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: openvr_api
+  at (wrapper managed-to-native) Valve.VR.OpenVRInterop:GetInitToken ()
+  at Valve.VR.OpenVR.GetInitToken () [0x00000] in <filename unknown>:0 
+  at Valve.VR.OpenVR+COpenVRContext.CheckClear () [0x00000] in <filename unknown>:0 
+  at Valve.VR.OpenVR+COpenVRContext.VRSettings () [0x00000] in <filename unknown>:0 
+  at Valve.VR.OpenVR.get_Settings () [0x00000] in <filename unknown>:0 
+  at SteamVR_Ears.OnEnable () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+UnityEngine.Networking.ClientScene:OnObjectSpawn(NetworkMessage)
+UnityEngine.Networking.NetworkConnection:HandleReader(NetworkReader, Int32, Int32)
+UnityEngine.Networking.NetworkConnection:HandleBytes(Byte[], Int32, Int32)
+UnityEngine.Networking.NetworkConnection:TransportRecieve(Byte[], Int32, Int32)
+UnityEngine.Networking.NetworkClient:Update()
+UnityEngine.Networking.NetworkClient:UpdateClients()
+UnityEngine.Networking.NetworkIdentity:UNetStaticUpdate()
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: openvr_api
+  at (wrapper managed-to-native) Valve.VR.OpenVRInterop:GetInitToken ()
+  at Valve.VR.OpenVR.GetInitToken () [0x00000] in <filename unknown>:0 
+  at Valve.VR.OpenVR+COpenVRContext.CheckClear () [0x00000] in <filename unknown>:0 
+  at Valve.VR.OpenVR+COpenVRContext.VRSystem () [0x00000] in <filename unknown>:0 
+  at Valve.VR.OpenVR.get_System () [0x00000] in <filename unknown>:0 
+  at SteamVR_ControllerManager.Refresh () [0x00000] in <filename unknown>:0 
+  at SteamVR_ControllerManager.OnEnable () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+UnityEngine.Networking.ClientScene:OnObjectSpawn(NetworkMessage)
+UnityEngine.Networking.NetworkConnection:HandleReader(NetworkReader, Int32, Int32)
+UnityEngine.Networking.NetworkConnection:HandleBytes(Byte[], Int32, Int32)
+UnityEngine.Networking.NetworkConnection:TransportRecieve(Byte[], Int32, Int32)
+UnityEngine.Networking.NetworkClient:Update()
+UnityEngine.Networking.NetworkClient:UpdateClients()
+UnityEngine.Networking.NetworkIdentity:UNetStaticUpdate()
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: openvr_api
+  at (wrapper managed-to-native) Valve.VR.OpenVRInterop:GetInitToken ()
+  at Valve.VR.OpenVR.GetInitToken () [0x00000] in <filename unknown>:0 
+  at Valve.VR.OpenVR+COpenVRContext.CheckClear () [0x00000] in <filename unknown>:0 
+  at Valve.VR.OpenVR+COpenVRContext.VRSettings () [0x00000] in <filename unknown>:0 
+  at Valve.VR.OpenVR.get_Settings () [0x00000] in <filename unknown>:0 
+  at SteamVR_Ears.OnEnable () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+UnityEngine.Networking.ClientScene:OnObjectSpawn(NetworkMessage)
+UnityEngine.Networking.NetworkConnection:HandleReader(NetworkReader, Int32, Int32)
+UnityEngine.Networking.NetworkConnection:HandleBytes(Byte[], Int32, Int32)
+UnityEngine.Networking.NetworkConnection:TransportRecieve(Byte[], Int32, Int32)
+UnityEngine.Networking.NetworkClient:Update()
+UnityEngine.Networking.NetworkClient:UpdateClients()
+UnityEngine.Networking.NetworkIdentity:UNetStaticUpdate()
+ 
+(Filename:  Line: -1)
+
